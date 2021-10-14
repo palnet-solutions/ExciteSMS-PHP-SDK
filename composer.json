@@ -1,5 +1,5 @@
 {
-    "name": "apimatic/excitesms",
+    "name": "palnet/excitesms",
     "description": "Get familiar with our APIs and technical resources in your favorite languages.",
     "type": "library",
     "keywords": [
@@ -7,13 +7,13 @@
         "API",
         "SDK"
     ],
-    "homepage": "https://www.apimatic.io",
+    "homepage": "https://www.palnet.io",
     "license": "MIT",
     "authors": [
         {
-            "name": "APIMatic Code Generator",
-            "email": "support@apimatic.io",
-            "homepage": "https://www.apimatic.io",
+            "name": "palnet Code Generator",
+            "email": "support@palnet.io",
+            "homepage": "https://www.palnet.io",
             "role": "API Tool"
         }
     ],
