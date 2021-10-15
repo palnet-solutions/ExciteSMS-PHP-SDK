@@ -1,5 +1,8 @@
 <?php
-
+// Step 1: Get your Token from https://gateway.excitesms.tech/developers
+// Step 2: Change the SenderID below. It can be a valid phone number or a String
+// Step 3: the number we are sending to - Any phone number. You must have to insert country code at beginning of the number
+// Step 4: Type of message you are sending Defult-> plain
 $parameters = [
         'recipient' => '+260965683486',
         'sender_id' => 'ExciteTesr',
